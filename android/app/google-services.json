@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205067876404",
+    "project_id": "caddenetwork-app",
+    "storage_bucket": "caddenetwork-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205067876404:android:ce5d1ddd1b03aca92ef261",
+        "android_client_info": {
+          "package_name": "com.example.caddenetwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFKr6U1-t_z33ezapJQClklG5V4mqxebk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
